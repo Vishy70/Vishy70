@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vishal Kamath
 - Junior @ NITK
 - I love Machine Learning, and I'm trying my best to become an allround Software Engineer!
-- 💞️ I’m currently learning the intricacies of Backend Development.
+- 💞️ I’m currently learning the intricacies of Backend Development (through Django)
 
 📫 How to reach me: <br>
 <a href="https://www.linkedin.com/in/vishy-kamath"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
